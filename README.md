@@ -29,14 +29,13 @@ bitoracle-chatbot/
 ├── launch_chatbot.sh
 ```
 
-
 ---
 
 ## 🛠️ Setup Instructions
 
 1. Clone or download this repository.
 
-2. Set your **Gemini-Pro API key**:
+2. Set your **Gemini API key**:
    - Option 1: Edit `app.py` and replace `"YOUR_API_KEY_HERE"`.
    - Option 2 (recommended): Set an environment variable:
      ```
